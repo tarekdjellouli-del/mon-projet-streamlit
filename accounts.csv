@@ -1,0 +1,3 @@
+﻿nom;mot de passe;email;failed_login_attempts;logged_in;role				
+Bosse;Admin123!;admin@example.com;0;False;admin				
+invite;Invite123!;invite@example.com;0;False;user				
